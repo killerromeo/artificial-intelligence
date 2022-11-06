@@ -1,0 +1,19 @@
+header{
+	background-color: black;
+}
+footer{
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 10px;
+}
+.container-fluid{
+	color: red;
+}
+img{
+	size: 50px;
+}
+.nav-item:hoever{
+	color: darkred;
+
+}
